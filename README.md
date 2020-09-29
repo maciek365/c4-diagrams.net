@@ -1,6 +1,9 @@
 # EasyC4 for diagrams.net
 The EasyC4 diagrams.net library is for fast, convenient and aesthetic C4 diagrams creating.
 The library contains following easy to use elements:
+
+
+
 ![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
 
 # How to start?
@@ -15,6 +18,6 @@ Below on the screen you can see this C4 library on the left panel of diagrams.ne
 ![c4-diagrams.net](/c4-diagrams-net-maciek365-library-screen.png)
 
 # Credits
-Please share with me (macieksliwinski80@gmail.com) with your comments, ideas, questions, etc. Please feel free to provide me any feedback.
+Please share with me with your comments, ideas, questions, etc. Please feel free to provide me any feedback -> macieksliwinski80@gmail.com
 
 The C4 model and diagramming approach created by Simon Brown. More info: https://c4model.com/
