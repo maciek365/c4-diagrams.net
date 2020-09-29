@@ -15,6 +15,6 @@ Below on the screen you can see this C4 library on the left panel of diagrams.ne
 ![c4-diagrams.net](/c4-diagrams-net-maciek365-library-screen.png)
 
 # Credits
-Please share with me (maciek@wtx.pl) with your comments, ideas, questions, etc. Please feel free to provide me any feedback.
+Please share with me (macieksliwinski80@gmail.com) with your comments, ideas, questions, etc. Please feel free to provide me any feedback.
 
 The C4 model and diagramming approach created by Simon Brown. More info: https://c4model.com/
