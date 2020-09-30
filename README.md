@@ -4,7 +4,7 @@ The library contains following easy to use elements:
 
 
 
-![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
+
 
 # How to start?
 ## Just click the link!
