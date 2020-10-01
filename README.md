@@ -1,5 +1,5 @@
 # EasyC4 for diagrams.net
-The EasyC4 diagrams.net library is for fast, convenient and aesthetic C4 diagrams creating.
+The **EasyC4** library is for fast, convenient and aesthetic C4 diagrams creating in *diagrams.net* application.
 The library contains following easy to use elements:
 
 ![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
@@ -13,8 +13,9 @@ https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/maciek365/c4-
 
 
 ## Use it simply!
-Simply use elements available in the library to easy create diagrams in very convenient way! Just drag elements from library and double click on it to edit titles and descriptions. This is the most convenient way to do it fast, readable and easy lets you keep aesthetic and clear form.
-Below on the screen you can see this C4 library on the left panel of diagrams.net application.
+Simply use elements available **EasyC4** library to easy create diagrams in very convenient way! Just drag elements from library and double click on it to edit titles and descriptions. This is the most convenient way to do it fast, readable and easy lets you keep aesthetic and clear form.
+
+Below on the screen you can see **EasyC4** library on the left panel of *diagrams.net* application.
 ![c4-diagrams.net](/EasyC4-screen.png)
 
 
