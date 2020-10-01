@@ -8,8 +8,7 @@ The library contains following easy to use elements:
 
 # How to start?
 ## Just click the link!
-You can start very, very easy! Just click link below and start using *EasyC4* library:
-https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/maciek365/c4-diagrams.net/master/EasyC4&splash=0
+You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/maciek365/c4-diagrams.net/master/EasyC4&splash=0
 
 
 ## Use it simply!
