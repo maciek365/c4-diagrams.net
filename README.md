@@ -1,4 +1,13 @@
 # EasyC4 for diagrams.net
+
+---
+
+Please also check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
+
+The new version contains slightly smaller elements with larger fonts - seems to be more readable. You also find there additional types of containers - web browser and mobile application. Maybe new version will be more suitable for you :-)
+
+---
+
 The **EasyC4** library is for quick, convenient and aesthetic C4 diagrams creating in *diagrams.net* application.
 The library contains following easy to use elements:
 
