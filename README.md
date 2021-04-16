@@ -4,7 +4,7 @@
 
 Please also check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
 
-The new version contains slightly smaller elements with larger fonts - seems to be more readable. You also find there additional types of containers - microservices, message bus, web browser and mobile application. Maybe new version will be more suitable for you.
+The new version contains slightly smaller, more compact elements - seems to be more readable. You also find there additional types of containers - web browser and mobile application. Maybe new version will be more suitable for you.
 
 ---
 
