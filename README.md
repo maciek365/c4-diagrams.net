@@ -8,12 +8,20 @@ The new version contains slightly smaller, more compact elements - seems to be m
 
 ---
 
-The **EasyC4** library is for quick, convenient and aesthetic C4 diagrams creating in *diagrams.net* application.
-The library contains following easy to use elements:
+The **EasyC4** library is for quick and convenient visualising software architecture using the **C4 model** approach. The library contains a set of aesthetic **C4 notation** elements and lets you create C4 diagrams in the *diagrams.net* / *draw.io* application.
+
+The **EasyC4** provides the following easy to use elements:
+- Person (internal and external)
+- Software system (internal and external)
+- Container (generic, data, microservice and message bus)
+- Component
+- Relationship (with description and technology, with description only and plain)
+- Scope boundary (software system and container)
+- Diagram title (for system context, containers and components diagrams)
+- Legend
 
 ![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
-
-
+---
 
 # How to start?
 ## Just click the link!
