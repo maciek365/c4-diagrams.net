@@ -34,6 +34,15 @@ Simply use elements available in **EasyC4** library to create diagrams in very c
 Below on the screen you can see **EasyC4** library on the left panel of *diagrams.net* application.
 ![c4-diagrams.net](/EasyC4-screen.png)
 
+# Tips
+## Manually Resizing Elements
+Elements will by default try to automatically resize to fit the description and other text.
+
+If you however need to manually resize items you need to activate the "Resizable" checkbox in the "Property / Value" table within the "Format Panel".
+
+After that you will be able to change the size of the element.
+
+If the "Format Panel" is not visible then you can show it by clicking one of the icon on the right top.
 
 # Credits
 Please share with me with your suggestions, ideas, comments, etc. Please feel free to provide me any feedback -> macieksliwinski80@gmail.com
