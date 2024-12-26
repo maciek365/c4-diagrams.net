@@ -2,7 +2,7 @@
 
 ---
 
-Please also check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
+Please check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
 
 The new version contains slightly smaller, more compact elements - seems to be more readable. You also find there an additional type of container - mobile application - and deployment node boundary. Maybe a new version will be more suitable for you.
 
